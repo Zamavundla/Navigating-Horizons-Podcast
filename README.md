@@ -90,4 +90,4 @@ Check the wireframe of the Podcast App on TBC
 
 ## Deployed App
 
-Access the deployed Podcast App TBC
+Access the deployed Podcast App https://github.com/Zamavundla/Navigating-Horizons-Podcast.github.io/actions/runs/7208262696 
